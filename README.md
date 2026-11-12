@@ -159,17 +159,12 @@ I am a cybersecurity specialist and full-stack web developer with **4+ years** o
 
 **📈 My Contributions**
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=pkinnocyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkinnocyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pkinnocyber&theme=tokyonight&hide_border=true" width="65%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pkinnocyber&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD" width="100%"/>
 
 <br/><br/>
 
