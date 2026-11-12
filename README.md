@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7F77DD,100=1D9E75&height=220&section=header&text=Muhammad%20Sabir%20Ali&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20and%20CEO%20of%20INNO%20CYBER&descSize=20&descColor=FFFFFF&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7F77DD,100=1D9E75&height=220&section=header&text=Muhammad%20Sabir%20Ali&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Full-Stack%20Developer&descAlignY=66&fontAlignX=50&descFontSize=18&descFontColor=E5E7EB&width=1000" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&height=40&lines=Securing+systems+one+audit+at+a+time;Building+secure+and+scalable+web+apps;4%2B+years+in+cybersecurity+and+dev;Founder+of+INNO_CYBER" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&height=40&lines=Securing+systems+one+audit+at+a+time;Building+secure+digital+products;Turning+security+into+business+advantage" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sabir555S&label=Profile+Views&color=7F77DD&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=pkinnocyber&label=Profile+Views&color=7F77DD&style=flat-square)
 &nbsp;
 ![Repos](https://img.shields.io/badge/Repos-50%2B-7F77DD?style=flat-square)
 &nbsp;
@@ -36,7 +36,7 @@
 
 ## 👤 About Me
 
-I am a cybersecurity specialist and full-stack web developer with **4+ years** of hands-on experience. I founded **INNO_CYBER** to deliver professional penetration testing, web development, and security consulting under one roof — helping businesses stay protected while building digital products that scale.
+I am a cybersecurity specialist and full-stack web developer with **4+ years** of hands-on experience. I founded **INNO_CYBER** to deliver professional penetration testing, web development, and security consulting for businesses that need resilient digital systems.
 
 > *"I don't just find vulnerabilities — I help you understand them, fix them, and prevent them."*
 
@@ -131,7 +131,7 @@ I am a cybersecurity specialist and full-stack web developer with **4+ years** o
 [![Gmail](https://img.shields.io/badge/Gmail-lionh2682%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lionh2682@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Sabir_Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sabir-ali-1b51a3333)
 [![Portfolio](https://img.shields.io/badge/Portfolio-INNO_CYBER-1D9E75?style=flat-square&logo=google-chrome&logoColor=white)](https://innoocyber.free.nf/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sabir555S-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sabir555S)
+[![GitHub](https://img.shields.io/badge/GitHub-pkinnocyber-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pkinnocyber)
 
 <br/>
 
@@ -147,29 +147,29 @@ I am a cybersecurity specialist and full-stack web developer with **4+ years** o
 
 **📋 Profile Summary**
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabir555S&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pkinnocyber&theme=tokyonight" width="100%"/>
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabir555S&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pkinnocyber&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sabir555S&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pkinnocyber&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sabir555S&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pkinnocyber&theme=tokyonight" height="165"/>
 
 <br/><br/>
 
 **📈 My Contributions**
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sabir555S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pkinnocyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir555S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkinnocyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sabir555S&theme=tokyonight&hide_border=true" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=pkinnocyber&theme=tokyonight&hide_border=true" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabir555S&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pkinnocyber&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD" width="100%"/>
 
 <br/><br/>
 
@@ -184,6 +184,6 @@ I am a cybersecurity specialist and full-stack web developer with **4+ years** o
 <br/><br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer&text=Let%27s%20secure%20the%20web%20together&fontSize=16&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer&text=Let%27s%20secure%20the%20web%20together&fontSize=16&fontColor=ffffff&fontAlignY=68&width=1000" />
 
 </div>
